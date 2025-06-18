@@ -3,7 +3,7 @@
 <br>
 
 ## Overview 🔍  
-***Welcome to the Contest-#1 of the Assiut University “Newcomers” training series!***  
+***Welcome to the Contest #1 of the Assiut University “Newcomers” training series!***  
 This repo contains **comprehensive C++ solutions** for 9 beginner-level problems from Assiut University’s first training contest. Topics include basic arithmetic, conditions, characters, bitwise operations, and data types—ideal for newcomers to competitive programming. 💡
 
 <br>
